@@ -1,0 +1,1001 @@
+Date,Product,Category,Region,Sales,Quantity,Profit
+2025-09-28,Folder,Office Supplies,Central,494.98,8,72.67
+2025-03-29,Pen,Office Supplies,East,310.53,5,97.02
+2025-12-10,Lamp,Furniture,South,183.6,6,73.01
+2025-01-22,Tablet,Electronics,South,4250.54,9,1205.27
+2025-09-28,Bookshelf,Furniture,West,973.49,3,384.5
+2025-11-03,Headphones,Electronics,Central,2080.82,7,248.69
+2025-01-14,T-shirt,Clothing,West,166.46,2,17.44
+2025-09-21,Bookshelf,Furniture,West,2190.53,3,389.11
+2025-02-23,Sneakers,Clothing,South,1178.63,10,128.94
+2025-06-11,Desk,Furniture,West,7190.17,10,2008.72
+2025-07-09,Sneakers,Clothing,North,1363.69,8,442.1
+2025-08-05,Stapler,Office Supplies,South,298.31,9,44.62
+2025-05-16,Smartphone,Electronics,North,563.33,8,89.94
+2025-10-16,Jacket,Clothing,East,929.99,5,274.65
+2025-02-02,T-shirt,Clothing,West,483.61,7,95.54
+2025-02-04,Folder,Office Supplies,East,41.38,1,16.2
+2025-08-06,Paper,Office Supplies,Central,547.69,7,135.9
+2025-06-28,Laptop,Electronics,South,5175.01,7,1391.99
+2025-05-23,Hat,Clothing,Central,756.57,4,211.58
+2025-06-19,Folder,Office Supplies,South,135.2,9,32.04
+2025-10-13,Sneakers,Clothing,West,331.97,10,68.68
+2025-10-10,Chair,Furniture,North,5938.84,9,2127.41
+2025-11-14,Pen,Office Supplies,North,353.91,5,64.0
+2025-06-29,Jacket,Clothing,North,22.33,1,3.93
+2025-04-23,Jeans,Clothing,East,320.6,5,35.61
+2025-08-08,Laptop,Electronics,South,587.54,6,119.58
+2025-02-22,Headphones,Electronics,South,14791.93,10,2553.33
+2025-09-12,Jacket,Clothing,East,479.27,6,138.84
+2025-07-20,Sofa,Furniture,North,3394.66,6,1213.62
+2025-12-12,Jacket,Clothing,West,491.42,3,100.54
+2025-05-08,Folder,Office Supplies,North,657.93,7,92.94
+2025-05-31,T-shirt,Clothing,North,590.09,10,175.84
+2025-03-01,Chair,Furniture,West,216.23,1,27.66
+2025-06-09,Hat,Clothing,Central,520.91,7,106.66
+2025-06-01,Jacket,Clothing,West,949.06,6,277.7
+2025-04-14,Paper,Office Supplies,West,240.66,4,50.94
+2025-12-15,Headphones,Electronics,North,566.34,2,149.86
+2025-06-18,Sofa,Furniture,Central,2313.51,4,396.01
+2025-05-08,Tablet,Electronics,East,836.68,1,211.38
+2025-09-21,Lamp,Furniture,East,599.12,2,175.86
+2025-11-13,Paper,Office Supplies,Central,178.02,3,58.85
+2025-08-08,T-shirt,Clothing,West,889.32,5,288.42
+2025-10-29,Smartwatch,Electronics,North,4399.12,5,1733.69
+2025-06-10,Hat,Clothing,Central,126.61,3,33.81
+2025-12-26,Binder,Office Supplies,East,198.78,8,59.9
+2025-09-30,Binder,Office Supplies,East,569.73,8,177.04
+2025-09-04,Hat,Clothing,South,1639.22,10,590.32
+2025-11-09,Tablet,Electronics,South,4830.11,4,1424.83
+2025-05-23,Sneakers,Clothing,East,55.71,2,15.24
+2025-07-05,Sofa,Furniture,North,2909.65,6,317.59
+2025-04-11,Jeans,Clothing,East,167.3,1,30.36
+2025-09-19,Hat,Clothing,West,352.63,4,109.26
+2025-05-04,Sneakers,Clothing,Central,713.62,10,241.6
+2025-02-27,Pen,Office Supplies,West,201.82,7,31.34
+2025-05-09,Chair,Furniture,West,7347.15,10,1709.72
+2025-09-29,T-shirt,Clothing,Central,943.96,7,217.77
+2025-06-03,Headphones,Electronics,West,3446.63,3,359.55
+2025-02-16,Bookshelf,Furniture,Central,269.79,1,106.26
+2025-12-07,Tablet,Electronics,South,3864.99,7,925.29
+2025-09-03,Laptop,Electronics,South,6678.43,5,1190.55
+2025-04-06,Desk,Furniture,East,445.32,1,135.91
+2025-06-09,Jeans,Clothing,North,477.36,4,103.33
+2025-06-28,T-shirt,Clothing,North,644.64,5,223.13
+2025-02-13,Jeans,Clothing,East,34.81,2,9.94
+2025-09-21,Paper,Office Supplies,South,697.53,10,141.03
+2025-11-10,Paper,Office Supplies,West,190.46,5,72.56
+2025-10-04,Sneakers,Clothing,North,1027.03,9,233.18
+2025-04-09,Jacket,Clothing,North,322.73,4,107.44
+2025-07-02,Hat,Clothing,West,1073.54,7,140.57
+2025-08-05,Smartphone,Electronics,West,2889.43,6,375.61
+2025-08-21,Sneakers,Clothing,Central,82.03,3,16.06
+2025-05-24,Bookshelf,Furniture,East,503.06,5,141.23
+2025-02-22,Jacket,Clothing,Central,1109.12,7,148.67
+2025-08-11,Laptop,Electronics,South,6902.19,10,2528.35
+2025-08-27,Pen,Office Supplies,South,696.09,9,198.71
+2025-10-10,Smartwatch,Electronics,South,2625.77,10,666.94
+2025-11-17,Sofa,Furniture,Central,3935.13,6,1511.78
+2025-10-19,Smartwatch,Electronics,West,6461.18,6,1579.76
+2025-12-12,Jacket,Clothing,South,93.38,3,23.14
+2025-05-06,Laptop,Electronics,West,11244.12,10,3712.34
+2025-12-14,Paper,Office Supplies,North,365.51,9,67.88
+2025-05-14,T-shirt,Clothing,Central,123.09,10,48.12
+2025-07-22,Smartwatch,Electronics,Central,2084.18,5,643.23
+2025-11-01,Laptop,Electronics,North,959.96,1,264.27
+2025-01-12,T-shirt,Clothing,East,1905.78,10,699.57
+2025-01-08,Sneakers,Clothing,Central,457.43,10,109.38
+2025-01-28,Bookshelf,Furniture,South,3901.42,5,1544.43
+2025-07-31,Chair,Furniture,North,1990.06,3,766.05
+2025-01-10,Hat,Clothing,North,1412.53,8,374.99
+2025-05-26,Smartphone,Electronics,North,596.27,1,193.71
+2025-06-26,Headphones,Electronics,East,729.61,1,163.76
+2025-07-16,Smartwatch,Electronics,West,7475.62,5,1993.22
+2025-07-21,Smartwatch,Electronics,Central,5978.83,10,1030.3
+2025-06-22,Smartphone,Electronics,East,1526.13,4,460.14
+2025-04-05,Jeans,Clothing,West,113.72,8,28.37
+2025-11-02,Sofa,Furniture,East,454.97,1,122.06
+2025-04-22,Sofa,Furniture,North,4280.19,7,1224.53
+2025-04-13,Sofa,Furniture,East,3031.76,6,1194.93
+2025-10-13,Desk,Furniture,South,2178.61,3,445.47
+2025-01-30,Chair,Furniture,West,3032.22,7,937.84
+2025-07-03,Tablet,Electronics,South,763.57,1,135.51
+2025-09-19,Hat,Clothing,South,380.04,5,61.85
+2025-04-21,Pen,Office Supplies,East,438.4,9,120.75
+2025-07-03,Folder,Office Supplies,West,811.75,9,196.6
+2025-05-02,Laptop,Electronics,Central,327.78,3,49.39
+2025-01-22,Jeans,Clothing,Central,571.28,5,148.72
+2025-03-19,Jeans,Clothing,South,1411.75,10,157.82
+2025-11-15,Smartphone,Electronics,East,451.47,1,154.34
+2025-06-29,Headphones,Electronics,Central,6020.47,8,1718.7
+2025-06-03,Binder,Office Supplies,Central,141.17,8,43.22
+2025-10-01,Pen,Office Supplies,West,386.44,10,84.69
+2025-01-28,T-shirt,Clothing,Central,1171.53,10,412.63
+2025-01-25,Desk,Furniture,West,294.05,1,71.22
+2025-04-19,Sofa,Furniture,North,193.86,2,50.62
+2025-03-24,Chair,Furniture,West,2485.07,10,519.19
+2025-11-11,Desk,Furniture,East,2978.68,6,509.85
+2025-12-16,Lamp,Furniture,West,5764.08,8,715.15
+2025-08-11,Stapler,Office Supplies,West,256.78,6,100.36
+2025-03-03,T-shirt,Clothing,East,1318.56,9,343.5
+2025-10-27,Sofa,Furniture,Central,870.12,5,171.5
+2025-01-20,Folder,Office Supplies,North,55.33,1,17.27
+2025-12-22,Lamp,Furniture,East,209.71,3,42.15
+2025-06-21,Lamp,Furniture,South,556.42,2,190.83
+2025-09-30,Smartwatch,Electronics,North,8223.09,9,1985.65
+2025-03-10,Pen,Office Supplies,North,33.62,2,10.73
+2025-02-04,Laptop,Electronics,West,1124.62,1,306.28
+2025-12-27,Hat,Clothing,East,241.55,5,36.01
+2025-12-05,Smartwatch,Electronics,Central,13664.06,10,2662.56
+2025-10-23,Chair,Furniture,South,2945.07,8,627.55
+2025-01-23,Stapler,Office Supplies,North,27.06,1,10.01
+2025-04-14,Binder,Office Supplies,Central,514.42,8,69.48
+2025-02-11,Sofa,Furniture,East,2565.6,4,733.82
+2025-06-06,Jacket,Clothing,West,917.74,6,286.42
+2025-03-27,Paper,Office Supplies,West,154.87,2,56.22
+2025-08-04,Smartwatch,Electronics,West,2504.27,4,849.42
+2025-11-28,Smartwatch,Electronics,West,135.39,2,37.85
+2025-10-26,Sneakers,Clothing,South,835.46,5,323.93
+2025-08-06,Jeans,Clothing,East,848.95,8,240.62
+2025-12-22,Folder,Office Supplies,East,320.23,4,34.23
+2025-04-02,Binder,Office Supplies,North,115.48,10,14.23
+2025-09-14,Chair,Furniture,East,3941.64,5,1386.15
+2025-11-15,Chair,Furniture,North,2577.03,6,714.82
+2025-05-17,Smartphone,Electronics,Central,12141.38,10,1231.01
+2025-01-25,Headphones,Electronics,West,13837.91,10,2821.6
+2025-12-13,Sofa,Furniture,South,482.04,1,52.95
+2025-06-29,Pen,Office Supplies,North,49.31,6,9.54
+2025-06-05,Headphones,Electronics,South,2024.26,2,310.54
+2025-05-28,T-shirt,Clothing,North,1041.12,6,271.23
+2025-08-12,T-shirt,Clothing,North,637.63,7,216.75
+2025-10-13,Lamp,Furniture,North,3858.71,8,726.26
+2025-04-23,Binder,Office Supplies,South,104.43,2,34.42
+2025-02-24,T-shirt,Clothing,Central,1071.82,7,194.74
+2025-03-28,Binder,Office Supplies,West,138.84,7,43.71
+2025-09-04,Smartphone,Electronics,North,1155.18,3,348.37
+2025-03-08,Smartphone,Electronics,Central,2989.45,3,512.56
+2025-06-14,Sofa,Furniture,East,1127.03,6,211.82
+2025-09-20,Jeans,Clothing,South,49.5,1,5.34
+2025-10-12,Headphones,Electronics,West,2688.75,2,928.25
+2025-07-14,Jacket,Clothing,South,115.52,7,40.34
+2025-02-22,Smartphone,Electronics,South,4275.77,3,1407.08
+2025-06-07,T-shirt,Clothing,South,1577.76,8,380.74
+2025-04-25,T-shirt,Clothing,South,61.05,1,16.03
+2025-09-03,Smartphone,Electronics,North,7563.89,6,2990.16
+2025-04-08,Lamp,Furniture,Central,3892.36,7,1349.77
+2025-12-22,Hat,Clothing,South,558.63,9,148.74
+2025-03-28,Laptop,Electronics,West,329.72,5,46.51
+2025-09-25,Headphones,Electronics,South,6900.27,9,1876.79
+2025-07-09,Laptop,Electronics,Central,6619.52,10,1364.69
+2025-11-03,Sofa,Furniture,North,2472.14,5,429.18
+2025-06-13,Headphones,Electronics,East,1096.22,1,310.36
+2025-11-08,Desk,Furniture,Central,237.83,1,62.3
+2025-12-03,Pen,Office Supplies,West,128.43,2,31.11
+2025-05-09,Smartphone,Electronics,North,9649.28,9,2696.84
+2025-08-17,Headphones,Electronics,East,1333.83,3,369.56
+2025-11-01,Stapler,Office Supplies,West,95.27,1,22.27
+2025-09-21,Folder,Office Supplies,East,385.54,5,122.31
+2025-03-30,T-shirt,Clothing,South,198.03,10,59.6
+2025-10-09,Jeans,Clothing,North,499.55,5,96.84
+2025-06-25,Stapler,Office Supplies,North,778.0,8,298.19
+2025-04-13,Bookshelf,Furniture,East,530.63,1,111.12
+2025-04-08,Sneakers,Clothing,Central,426.88,3,86.21
+2025-01-04,Folder,Office Supplies,North,211.69,6,60.92
+2025-04-18,Hat,Clothing,South,29.27,2,10.57
+2025-05-21,Sofa,Furniture,Central,1506.16,2,511.54
+2025-11-14,Folder,Office Supplies,Central,252.9,5,69.35
+2025-12-25,T-shirt,Clothing,South,600.56,4,103.08
+2025-11-20,Stapler,Office Supplies,South,54.39,2,6.13
+2025-11-01,Smartwatch,Electronics,North,9319.4,9,1542.14
+2025-07-17,Lamp,Furniture,Central,4948.45,7,1897.33
+2025-06-02,Stapler,Office Supplies,South,694.13,7,117.66
+2025-08-31,Hat,Clothing,Central,189.2,10,40.72
+2025-09-16,Smartphone,Electronics,South,4461.45,8,523.56
+2025-04-09,Paper,Office Supplies,North,398.06,4,60.57
+2025-12-04,Sofa,Furniture,South,148.5,1,51.2
+2025-03-30,Lamp,Furniture,Central,6471.81,9,2317.15
+2025-05-03,Paper,Office Supplies,East,82.94,9,29.5
+2025-09-18,Chair,Furniture,North,689.02,2,145.94
+2025-06-25,Jacket,Clothing,Central,1111.94,10,432.14
+2025-03-22,Hat,Clothing,West,208.16,2,50.83
+2025-11-19,Headphones,Electronics,South,8080.5,8,2126.25
+2025-09-19,Smartwatch,Electronics,North,9650.14,8,2871.26
+2025-10-31,Headphones,Electronics,East,4808.82,9,825.23
+2025-07-10,Laptop,Electronics,West,1946.23,6,709.38
+2025-01-31,Laptop,Electronics,North,402.22,7,139.16
+2025-09-15,Laptop,Electronics,West,2310.3,7,289.32
+2025-01-17,Paper,Office Supplies,North,237.45,8,68.91
+2025-11-22,Hat,Clothing,East,463.79,3,121.69
+2025-03-01,Jeans,Clothing,West,147.38,5,56.18
+2025-11-20,Sneakers,Clothing,South,156.49,1,48.91
+2025-04-30,Chair,Furniture,South,1402.17,2,549.72
+2025-09-08,Tablet,Electronics,West,2735.62,3,588.39
+2025-05-14,Headphones,Electronics,North,1248.41,3,125.23
+2025-01-04,Desk,Furniture,Central,108.69,1,38.72
+2025-03-16,Stapler,Office Supplies,Central,339.18,4,112.56
+2025-07-14,Jacket,Clothing,East,193.01,1,21.11
+2025-03-25,Smartwatch,Electronics,Central,6912.82,6,1608.54
+2025-01-15,Paper,Office Supplies,South,50.49,2,5.52
+2025-09-28,Tablet,Electronics,South,2247.25,8,362.06
+2025-06-23,Smartwatch,Electronics,East,2306.97,2,664.1
+2025-01-24,Sneakers,Clothing,Central,1271.64,10,431.04
+2025-12-06,Smartphone,Electronics,West,3438.79,4,576.55
+2025-12-10,Hat,Clothing,Central,551.75,8,130.53
+2025-11-16,Hat,Clothing,South,202.38,2,56.67
+2025-08-05,Jacket,Clothing,Central,191.0,1,71.12
+2025-03-17,Pen,Office Supplies,North,533.12,9,56.25
+2025-06-10,Bookshelf,Furniture,West,6273.7,10,2398.88
+2025-10-16,Laptop,Electronics,North,5025.68,9,552.63
+2025-06-15,Jeans,Clothing,South,337.14,7,103.83
+2025-11-01,Binder,Office Supplies,South,523.69,8,163.36
+2025-12-25,Chair,Furniture,North,5183.79,9,1872.86
+2025-11-14,Bookshelf,Furniture,West,3771.82,7,1002.93
+2025-01-03,Desk,Furniture,South,1406.52,9,325.72
+2025-01-25,Bookshelf,Furniture,West,596.38,3,234.23
+2025-04-29,Hat,Clothing,Central,675.77,5,168.58
+2025-05-30,Desk,Furniture,East,3985.89,5,1564.21
+2025-08-31,Folder,Office Supplies,South,77.86,3,17.56
+2025-11-01,Paper,Office Supplies,West,370.41,5,119.57
+2025-08-08,Hat,Clothing,West,423.68,4,111.42
+2025-09-07,Paper,Office Supplies,West,212.87,5,60.0
+2025-09-19,Binder,Office Supplies,West,219.09,7,60.84
+2025-05-11,Lamp,Furniture,West,1032.6,2,330.36
+2025-08-28,Binder,Office Supplies,West,455.64,7,96.53
+2025-02-10,Lamp,Furniture,Central,4202.86,6,981.75
+2025-05-10,T-shirt,Clothing,West,287.49,7,62.48
+2025-06-12,Tablet,Electronics,South,315.47,5,87.23
+2025-10-30,Sneakers,Clothing,Central,239.64,10,36.17
+2025-11-28,Lamp,Furniture,South,3256.05,9,568.55
+2025-11-09,Folder,Office Supplies,North,125.54,6,13.94
+2025-06-14,Smartwatch,Electronics,West,1274.05,1,435.34
+2025-11-30,Sneakers,Clothing,East,66.73,2,11.3
+2025-04-29,Lamp,Furniture,North,1134.58,3,431.32
+2025-06-28,Smartphone,Electronics,North,6262.0,10,1527.73
+2025-08-05,Pen,Office Supplies,South,194.89,2,53.41
+2025-10-21,Jacket,Clothing,South,135.56,4,18.95
+2025-01-08,Jeans,Clothing,South,91.57,2,29.23
+2025-07-12,Smartwatch,Electronics,South,10283.11,7,2182.99
+2025-05-25,Desk,Furniture,South,6990.57,10,1895.72
+2025-10-29,Jacket,Clothing,North,554.15,4,91.27
+2025-12-27,Hat,Clothing,Central,762.29,10,112.66
+2025-06-18,T-shirt,Clothing,North,1578.99,9,528.51
+2025-11-20,Smartphone,Electronics,East,1272.01,2,252.0
+2025-03-23,Sofa,Furniture,South,2468.17,9,890.2
+2025-05-23,Smartphone,Electronics,Central,581.37,1,127.23
+2025-04-03,Headphones,Electronics,West,8234.14,9,2171.39
+2025-09-24,Folder,Office Supplies,South,63.01,3,18.45
+2025-03-26,Chair,Furniture,East,7626.38,10,2700.88
+2025-06-03,Hat,Clothing,Central,740.13,9,162.57
+2025-09-28,Tablet,Electronics,West,8601.81,7,2713.33
+2025-01-21,Pen,Office Supplies,Central,321.52,7,118.65
+2025-10-19,Tablet,Electronics,North,412.16,3,156.76
+2025-11-30,Sofa,Furniture,South,910.87,4,168.93
+2025-10-18,Stapler,Office Supplies,West,276.59,8,78.3
+2025-03-18,Desk,Furniture,North,2655.38,4,681.75
+2025-02-08,Folder,Office Supplies,South,231.36,7,78.2
+2025-03-25,Laptop,Electronics,West,704.83,4,242.97
+2025-02-16,Hat,Clothing,South,918.52,7,233.81
+2025-01-09,T-shirt,Clothing,South,432.07,10,89.97
+2025-12-13,Chair,Furniture,South,1312.93,5,419.6
+2025-12-11,Sneakers,Clothing,South,311.33,2,45.12
+2025-06-24,Binder,Office Supplies,Central,75.0,1,26.91
+2025-05-30,Stapler,Office Supplies,North,329.94,5,93.09
+2025-03-19,Jacket,Clothing,South,939.47,9,372.35
+2025-11-19,Stapler,Office Supplies,South,456.79,10,144.02
+2025-10-29,Headphones,Electronics,West,2774.0,3,558.04
+2025-08-20,Hat,Clothing,West,899.48,5,141.72
+2025-03-11,T-shirt,Clothing,East,1145.34,9,266.55
+2025-01-05,Jeans,Clothing,West,307.59,5,85.46
+2025-02-27,Folder,Office Supplies,Central,69.24,3,8.01
+2025-10-18,Jeans,Clothing,North,189.61,2,37.94
+2025-02-05,Bookshelf,Furniture,South,824.92,5,253.25
+2025-02-24,Laptop,Electronics,North,486.24,1,191.76
+2025-04-25,Stapler,Office Supplies,West,55.22,8,17.73
+2025-05-01,Sneakers,Clothing,North,138.28,5,24.49
+2025-09-29,T-shirt,Clothing,Central,241.61,6,28.74
+2025-08-25,T-shirt,Clothing,South,164.75,2,33.59
+2025-11-27,Smartphone,Electronics,North,1876.87,3,439.49
+2025-05-23,Jeans,Clothing,East,705.9,6,153.4
+2025-06-15,T-shirt,Clothing,South,258.62,2,78.18
+2025-01-14,Sofa,Furniture,West,2505.12,9,267.72
+2025-07-25,Binder,Office Supplies,East,237.76,4,90.31
+2025-11-06,Chair,Furniture,Central,740.52,1,182.26
+2025-01-25,Lamp,Furniture,West,618.78,5,150.65
+2025-06-22,T-shirt,Clothing,West,374.03,4,49.26
+2025-09-11,Lamp,Furniture,East,1061.31,2,154.53
+2025-09-23,Stapler,Office Supplies,East,94.73,9,37.75
+2025-04-09,Smartphone,Electronics,East,1130.04,5,215.82
+2025-09-17,Folder,Office Supplies,North,398.74,4,137.24
+2025-08-09,Folder,Office Supplies,West,269.17,4,95.4
+2025-07-10,Lamp,Furniture,West,939.52,3,210.68
+2025-03-27,Lamp,Furniture,Central,192.47,5,43.28
+2025-05-18,Stapler,Office Supplies,Central,126.18,7,32.88
+2025-08-30,Smartwatch,Electronics,Central,1691.71,5,201.96
+2025-07-07,Sneakers,Clothing,North,852.14,5,110.29
+2025-02-21,Bookshelf,Furniture,South,793.07,2,168.74
+2025-01-21,Hat,Clothing,South,1794.96,10,693.93
+2025-05-09,Smartphone,Electronics,North,1369.05,2,241.5
+2025-08-20,Desk,Furniture,South,3326.76,5,827.15
+2025-03-20,Jacket,Clothing,North,22.66,1,5.79
+2025-03-28,Stapler,Office Supplies,West,47.72,5,5.32
+2025-04-19,Pen,Office Supplies,North,35.31,3,3.66
+2025-08-20,Tablet,Electronics,Central,7198.23,10,2861.13
+2025-01-28,Jacket,Clothing,East,129.24,3,16.74
+2025-12-03,Desk,Furniture,West,4978.41,8,1430.79
+2025-02-18,Desk,Furniture,East,2014.24,4,669.51
+2025-04-29,Smartphone,Electronics,South,1034.42,2,142.31
+2025-06-30,Binder,Office Supplies,Central,34.34,2,6.92
+2025-06-02,Jeans,Clothing,North,736.76,8,170.8
+2025-08-01,Laptop,Electronics,West,4008.12,3,1177.36
+2025-09-25,Binder,Office Supplies,North,510.13,9,148.36
+2025-08-12,Lamp,Furniture,West,3659.73,6,661.68
+2025-09-15,Hat,Clothing,Central,739.68,5,255.44
+2025-10-05,Pen,Office Supplies,West,305.42,5,77.12
+2025-01-30,Pen,Office Supplies,Central,418.82,7,152.09
+2025-05-24,Laptop,Electronics,South,3261.47,8,1036.95
+2025-08-12,Tablet,Electronics,East,10034.62,10,1939.48
+2025-03-07,Headphones,Electronics,East,5347.14,9,1398.86
+2025-11-10,Jeans,Clothing,South,1009.26,6,104.27
+2025-01-20,Laptop,Electronics,Central,3812.57,3,919.19
+2025-05-12,Stapler,Office Supplies,South,294.39,4,107.71
+2025-08-18,Binder,Office Supplies,Central,25.89,5,3.97
+2025-02-26,Bookshelf,Furniture,West,1359.17,4,492.4
+2025-12-02,Headphones,Electronics,Central,8641.53,10,2317.64
+2025-06-08,Desk,Furniture,South,1240.97,3,152.79
+2025-01-30,Lamp,Furniture,West,5749.14,10,1935.07
+2025-08-16,Jacket,Clothing,Central,1048.22,7,178.99
+2025-09-08,Folder,Office Supplies,North,842.81,9,246.75
+2025-08-28,Tablet,Electronics,West,8922.8,6,2892.47
+2025-11-21,Paper,Office Supplies,South,528.55,9,208.19
+2025-04-23,Stapler,Office Supplies,East,185.65,6,47.42
+2025-02-04,Headphones,Electronics,Central,13154.59,10,4638.05
+2025-03-15,Tablet,Electronics,North,5368.64,5,1553.42
+2025-05-09,Desk,Furniture,East,4733.77,8,1560.51
+2025-07-07,Bookshelf,Furniture,West,5477.03,9,1627.15
+2025-04-16,Hat,Clothing,West,358.34,6,62.38
+2025-08-05,Jeans,Clothing,South,134.52,6,33.13
+2025-12-04,Jacket,Clothing,West,1167.79,10,237.97
+2025-01-07,Chair,Furniture,East,4337.23,6,462.12
+2025-05-23,Jacket,Clothing,West,593.29,7,206.68
+2025-11-10,T-shirt,Clothing,Central,293.7,5,87.01
+2025-12-11,Lamp,Furniture,North,2492.83,5,510.66
+2025-04-27,Smartphone,Electronics,South,2624.34,4,332.38
+2025-06-01,Chair,Furniture,North,682.13,2,179.24
+2025-04-08,Paper,Office Supplies,North,158.9,6,56.26
+2025-01-02,Lamp,Furniture,Central,4106.89,6,1234.97
+2025-06-16,Sofa,Furniture,Central,1522.51,6,511.7
+2025-05-18,Bookshelf,Furniture,East,210.02,3,70.54
+2025-06-03,Hat,Clothing,West,615.13,4,157.36
+2025-04-02,Hat,Clothing,West,1047.91,9,340.8
+2025-09-05,Laptop,Electronics,North,4105.11,3,1073.94
+2025-10-06,Jacket,Clothing,West,769.52,9,98.52
+2025-09-25,Headphones,Electronics,East,1863.52,10,385.75
+2025-03-26,Tablet,Electronics,Central,9655.8,8,2112.6
+2025-11-12,Jeans,Clothing,South,463.94,4,69.5
+2025-09-16,Jacket,Clothing,Central,84.16,2,21.22
+2025-06-25,T-shirt,Clothing,Central,468.31,5,133.28
+2025-01-12,Sofa,Furniture,North,5422.81,7,1221.91
+2025-06-07,Stapler,Office Supplies,Central,41.53,2,15.14
+2025-11-21,Pen,Office Supplies,East,124.54,9,13.55
+2025-05-13,Jeans,Clothing,South,136.82,3,48.91
+2025-03-01,Jeans,Clothing,East,895.7,9,310.35
+2025-08-04,T-shirt,Clothing,Central,331.32,2,120.58
+2025-06-05,Desk,Furniture,Central,777.03,8,245.33
+2025-02-10,Folder,Office Supplies,South,143.35,3,46.54
+2025-04-18,Smartphone,Electronics,Central,285.35,3,91.82
+2025-09-05,Desk,Furniture,East,1110.84,7,329.46
+2025-10-30,Headphones,Electronics,West,3435.29,6,414.13
+2025-10-29,Smartwatch,Electronics,Central,5642.17,4,2038.86
+2025-09-09,Paper,Office Supplies,East,133.65,2,48.42
+2025-12-20,Pen,Office Supplies,East,328.42,8,55.18
+2025-01-30,Headphones,Electronics,East,304.4,4,68.93
+2025-03-24,Desk,Furniture,North,1998.15,3,619.02
+2025-11-23,Sneakers,Clothing,Central,611.12,9,213.17
+2025-04-30,Jacket,Clothing,West,197.08,6,23.75
+2025-11-04,Smartphone,Electronics,North,11210.18,9,1370.69
+2025-07-15,Headphones,Electronics,North,5287.99,4,1920.48
+2025-03-03,Smartphone,Electronics,Central,463.67,1,106.07
+2025-09-12,Binder,Office Supplies,Central,55.23,5,19.3
+2025-07-20,Folder,Office Supplies,North,617.17,9,215.26
+2025-12-09,T-shirt,Clothing,Central,561.76,8,129.42
+2025-01-26,Paper,Office Supplies,East,188.48,4,53.18
+2025-06-06,Folder,Office Supplies,North,82.67,3,20.97
+2025-03-08,Sneakers,Clothing,West,359.45,6,65.23
+2025-03-13,Paper,Office Supplies,North,305.64,7,112.31
+2025-09-25,Chair,Furniture,Central,390.9,6,55.51
+2025-04-03,Jeans,Clothing,North,128.28,1,30.91
+2025-11-08,Hat,Clothing,West,108.15,1,10.99
+2025-12-19,Chair,Furniture,East,3863.96,10,894.74
+2025-11-06,Jeans,Clothing,East,768.9,9,96.98
+2025-11-03,Smartphone,Electronics,Central,6184.01,7,673.44
+2025-11-29,Jacket,Clothing,East,84.08,1,26.82
+2025-04-19,Hat,Clothing,Central,166.52,1,64.36
+2025-12-13,Lamp,Furniture,North,4077.71,7,1422.62
+2025-05-26,Tablet,Electronics,South,2029.35,2,690.2
+2025-05-27,Jeans,Clothing,Central,1221.79,8,148.21
+2025-09-15,Sofa,Furniture,North,4749.9,9,1740.42
+2025-02-20,Laptop,Electronics,South,1306.92,6,191.2
+2025-04-27,Folder,Office Supplies,East,110.7,2,38.6
+2025-09-25,Desk,Furniture,North,1126.85,3,141.21
+2025-08-01,Binder,Office Supplies,Central,25.52,1,6.12
+2025-10-04,T-shirt,Clothing,West,1031.1,6,228.05
+2025-05-02,Smartphone,Electronics,Central,1214.29,2,285.4
+2025-02-17,T-shirt,Clothing,East,803.1,10,86.92
+2025-06-05,T-shirt,Clothing,South,663.45,5,75.26
+2025-10-02,Smartphone,Electronics,West,9864.42,10,2871.24
+2025-11-01,Pen,Office Supplies,East,69.33,1,19.53
+2025-11-17,Bookshelf,Furniture,West,635.47,4,248.85
+2025-03-16,Sofa,Furniture,East,425.85,4,69.27
+2025-02-20,Pen,Office Supplies,South,69.51,2,10.02
+2025-05-02,Laptop,Electronics,Central,7180.41,5,1394.36
+2025-07-20,Folder,Office Supplies,South,13.38,1,3.77
+2025-04-19,Bookshelf,Furniture,North,2681.3,6,392.12
+2025-12-08,Smartwatch,Electronics,South,6293.96,5,1461.03
+2025-02-20,Desk,Furniture,Central,743.89,10,150.81
+2025-05-19,Hat,Clothing,West,794.62,7,118.85
+2025-04-21,Stapler,Office Supplies,East,102.89,2,22.69
+2025-12-04,Headphones,Electronics,West,4179.55,8,1411.67
+2025-01-08,Stapler,Office Supplies,Central,250.88,5,65.96
+2025-12-20,Pen,Office Supplies,Central,334.03,6,120.58
+2025-01-05,Headphones,Electronics,West,1037.1,1,248.94
+2025-05-27,Bookshelf,Furniture,North,7853.6,10,1924.31
+2025-04-12,Jeans,Clothing,West,116.92,1,27.17
+2025-08-30,Pen,Office Supplies,North,87.23,1,34.39
+2025-06-24,Bookshelf,Furniture,East,2604.3,4,632.7
+2025-12-03,Paper,Office Supplies,West,85.46,1,31.44
+2025-11-21,Pen,Office Supplies,East,47.71,7,11.6
+2025-02-23,Headphones,Electronics,East,2449.31,10,464.92
+2025-06-18,Sneakers,Clothing,South,1194.24,8,308.8
+2025-09-21,Sofa,Furniture,East,6679.21,10,1258.27
+2025-10-19,Pen,Office Supplies,North,586.13,9,70.75
+2025-05-08,Smartwatch,Electronics,West,10447.81,9,3696.19
+2025-09-17,Chair,Furniture,South,1594.35,6,422.09
+2025-06-22,Bookshelf,Furniture,Central,69.38,2,9.04
+2025-06-11,Desk,Furniture,North,2165.18,10,527.17
+2025-01-13,Desk,Furniture,South,2058.99,8,349.44
+2025-04-28,Pen,Office Supplies,East,351.83,7,59.04
+2025-01-21,Smartwatch,Electronics,Central,1706.49,3,502.3
+2025-01-10,Chair,Furniture,South,2044.33,4,248.45
+2025-02-22,Jeans,Clothing,South,520.75,8,140.07
+2025-09-21,Hat,Clothing,East,172.55,2,25.47
+2025-05-07,Desk,Furniture,South,5458.11,9,1065.84
+2025-12-15,Paper,Office Supplies,South,729.29,10,202.78
+2025-11-21,Laptop,Electronics,North,1529.44,9,580.06
+2025-05-27,Smartphone,Electronics,East,11447.39,9,2220.84
+2025-05-21,Jeans,Clothing,East,548.67,3,116.97
+2025-07-05,Jacket,Clothing,Central,726.77,7,157.2
+2025-06-24,Paper,Office Supplies,South,204.06,7,74.0
+2025-01-11,Smartphone,Electronics,West,1030.36,1,394.83
+2025-07-30,Smartwatch,Electronics,West,599.35,5,124.67
+2025-12-21,Sneakers,Clothing,North,261.08,2,86.48
+2025-01-13,Tablet,Electronics,North,1701.0,2,382.28
+2025-06-15,Chair,Furniture,North,4246.32,6,699.46
+2025-06-11,Smartwatch,Electronics,Central,2232.64,9,659.73
+2025-11-22,Sofa,Furniture,West,2776.45,5,667.59
+2025-09-09,Tablet,Electronics,Central,3050.87,3,1058.63
+2025-02-13,Desk,Furniture,Central,2798.97,5,483.01
+2025-12-22,Desk,Furniture,North,541.95,10,173.89
+2025-07-01,Chair,Furniture,West,150.57,4,36.02
+2025-12-12,Jeans,Clothing,West,929.03,6,219.69
+2025-07-05,T-shirt,Clothing,West,79.32,6,26.26
+2025-05-14,Chair,Furniture,South,304.61,7,57.26
+2025-11-09,Laptop,Electronics,West,4936.83,5,1936.51
+2025-06-09,Pen,Office Supplies,North,635.23,8,212.24
+2025-05-12,Hat,Clothing,East,179.86,8,30.3
+2025-07-24,Desk,Furniture,West,3830.15,7,1052.0
+2025-11-08,T-shirt,Clothing,Central,453.81,4,176.46
+2025-02-28,T-shirt,Clothing,North,472.08,10,67.15
+2025-10-28,Chair,Furniture,South,429.48,3,147.46
+2025-11-17,Sneakers,Clothing,West,190.01,1,38.23
+2025-02-16,Bookshelf,Furniture,North,5051.7,9,1551.02
+2025-11-04,Lamp,Furniture,West,3372.38,9,473.09
+2025-01-15,Sofa,Furniture,South,5533.08,10,679.86
+2025-10-29,Desk,Furniture,South,472.88,3,110.49
+2025-04-18,Hat,Clothing,East,36.03,1,14.36
+2025-03-11,Sofa,Furniture,West,1634.7,9,630.06
+2025-11-28,Jacket,Clothing,South,465.15,5,129.34
+2025-09-17,Binder,Office Supplies,South,223.65,3,46.19
+2025-09-02,Headphones,Electronics,East,2904.45,2,632.7
+2025-02-08,Bookshelf,Furniture,North,155.28,1,41.85
+2025-05-17,Lamp,Furniture,West,184.8,5,38.27
+2025-09-12,Sneakers,Clothing,South,260.97,5,51.28
+2025-06-04,Sofa,Furniture,Central,3061.16,9,1127.71
+2025-09-22,Laptop,Electronics,West,3761.18,6,1413.67
+2025-04-03,Paper,Office Supplies,North,282.2,7,61.45
+2025-04-23,Headphones,Electronics,East,6207.79,7,1285.86
+2025-12-15,Lamp,Furniture,West,1887.43,4,424.07
+2025-02-27,Laptop,Electronics,North,13814.47,10,1803.36
+2025-02-10,Sofa,Furniture,East,1854.85,9,717.63
+2025-08-09,Desk,Furniture,Central,1911.4,4,441.5
+2025-03-17,Stapler,Office Supplies,East,847.68,10,121.34
+2025-05-12,Binder,Office Supplies,Central,351.76,7,87.68
+2025-02-10,Hat,Clothing,Central,368.47,3,40.47
+2025-11-20,Chair,Furniture,East,7544.04,10,1901.67
+2025-06-13,Pen,Office Supplies,Central,157.04,2,32.32
+2025-06-30,Jacket,Clothing,South,520.84,8,197.56
+2025-11-09,Stapler,Office Supplies,North,97.44,9,20.33
+2025-11-13,Laptop,Electronics,Central,1536.42,4,154.32
+2025-11-28,Folder,Office Supplies,West,447.08,6,130.63
+2025-12-09,Smartwatch,Electronics,Central,4892.5,10,966.7
+2025-07-25,Headphones,Electronics,East,5290.78,9,1960.67
+2025-11-06,Bookshelf,Furniture,Central,725.97,5,155.51
+2025-02-01,Binder,Office Supplies,South,158.32,2,43.56
+2025-09-30,Binder,Office Supplies,North,380.7,4,110.27
+2025-04-12,Stapler,Office Supplies,Central,53.82,1,13.6
+2025-03-29,T-shirt,Clothing,North,284.94,2,89.56
+2025-06-16,Paper,Office Supplies,South,279.33,9,95.56
+2025-03-11,Smartphone,Electronics,Central,6086.77,6,895.96
+2025-06-24,Smartphone,Electronics,West,5925.49,7,1147.15
+2025-12-05,Bookshelf,Furniture,West,503.1,4,170.68
+2025-09-04,Laptop,Electronics,Central,3442.09,4,861.65
+2025-06-17,Chair,Furniture,North,1082.37,3,208.52
+2025-05-27,Hat,Clothing,East,1636.7,10,496.16
+2025-11-09,Jeans,Clothing,East,117.35,5,22.75
+2025-09-29,Pen,Office Supplies,South,637.55,7,66.08
+2025-04-23,Sneakers,Clothing,North,341.44,5,70.3
+2025-02-26,Smartphone,Electronics,Central,745.56,5,249.86
+2025-01-19,Desk,Furniture,North,1715.95,6,200.72
+2025-05-21,Folder,Office Supplies,North,275.16,4,79.71
+2025-09-05,Sofa,Furniture,Central,975.79,4,178.47
+2025-08-06,Chair,Furniture,North,1681.11,10,657.66
+2025-03-23,Tablet,Electronics,North,8941.66,10,1442.58
+2025-09-23,Tablet,Electronics,East,1500.82,2,270.99
+2025-10-22,Jeans,Clothing,South,137.9,6,31.59
+2025-03-25,Sneakers,Clothing,East,399.65,3,72.03
+2025-09-23,Sofa,Furniture,East,5166.94,9,1462.26
+2025-02-28,Headphones,Electronics,West,2611.68,2,1002.94
+2025-11-05,Chair,Furniture,South,4518.44,6,460.9
+2025-01-25,Sneakers,Clothing,South,12.93,1,3.55
+2025-03-24,Smartphone,Electronics,West,369.7,1,117.46
+2025-11-26,Desk,Furniture,North,1203.95,2,238.52
+2025-05-07,Jacket,Clothing,Central,832.18,9,147.81
+2025-09-05,Headphones,Electronics,North,842.97,1,253.9
+2025-06-17,Bookshelf,Furniture,Central,1284.07,7,466.43
+2025-03-10,Sneakers,Clothing,North,43.76,2,10.4
+2025-11-27,Binder,Office Supplies,North,80.72,2,16.14
+2025-11-15,Sofa,Furniture,West,1473.74,8,420.07
+2025-07-28,Headphones,Electronics,East,3141.14,9,1067.72
+2025-10-11,Paper,Office Supplies,West,90.06,1,27.01
+2025-09-15,Jacket,Clothing,Central,571.93,10,178.24
+2025-09-09,Bookshelf,Furniture,South,3168.35,5,715.47
+2025-07-04,Pen,Office Supplies,South,244.29,4,54.3
+2025-07-26,Folder,Office Supplies,West,77.62,1,17.3
+2025-04-12,Chair,Furniture,North,696.89,6,177.66
+2025-01-21,Laptop,Electronics,West,2656.9,2,914.61
+2025-03-10,Jacket,Clothing,East,68.86,1,12.05
+2025-10-04,Jeans,Clothing,North,1674.26,10,563.87
+2025-04-20,Stapler,Office Supplies,West,404.84,10,73.46
+2025-08-01,T-shirt,Clothing,North,222.77,9,77.67
+2025-03-28,Paper,Office Supplies,Central,37.75,1,9.01
+2025-10-12,Chair,Furniture,North,1732.71,5,548.54
+2025-09-04,Hat,Clothing,North,1391.72,8,361.24
+2025-07-28,Jeans,Clothing,North,1775.16,10,242.22
+2025-06-11,Folder,Office Supplies,East,226.17,9,43.72
+2025-06-01,Pen,Office Supplies,West,789.55,8,177.19
+2025-07-14,Smartphone,Electronics,East,6472.04,10,2110.39
+2025-05-21,Laptop,Electronics,South,5306.06,6,565.85
+2025-09-02,Stapler,Office Supplies,North,129.99,7,39.99
+2025-10-09,Stapler,Office Supplies,Central,69.5,1,23.07
+2025-08-29,Stapler,Office Supplies,North,86.44,1,26.1
+2025-10-09,Stapler,Office Supplies,Central,670.28,9,207.24
+2025-03-27,T-shirt,Clothing,Central,919.51,9,183.98
+2025-05-27,Smartwatch,Electronics,East,1273.25,2,312.33
+2025-08-20,Stapler,Office Supplies,North,181.34,2,29.2
+2025-12-26,Sneakers,Clothing,North,684.43,4,180.47
+2025-11-18,Smartwatch,Electronics,South,4071.21,6,1625.04
+2025-11-19,Binder,Office Supplies,Central,34.95,3,11.14
+2025-03-01,Jacket,Clothing,West,74.44,4,15.26
+2025-03-03,Jacket,Clothing,East,80.92,1,23.43
+2025-05-16,Lamp,Furniture,North,4315.14,9,1443.79
+2025-07-28,Laptop,Electronics,West,3069.54,3,878.32
+2025-09-22,Headphones,Electronics,West,6824.81,6,2542.03
+2025-03-05,Pen,Office Supplies,Central,894.67,10,244.82
+2025-06-19,Desk,Furniture,West,1964.3,6,543.23
+2025-04-04,Smartwatch,Electronics,East,7852.36,10,1227.92
+2025-06-27,Laptop,Electronics,South,3724.96,3,1109.49
+2025-08-27,T-shirt,Clothing,North,565.27,3,164.44
+2025-04-20,Smartwatch,Electronics,West,4977.85,4,592.08
+2025-12-23,Tablet,Electronics,West,2336.41,4,536.68
+2025-04-06,Smartwatch,Electronics,Central,3735.82,3,1079.7
+2025-02-25,Desk,Furniture,North,2243.79,8,830.85
+2025-09-15,Hat,Clothing,South,458.49,8,125.17
+2025-05-20,Jacket,Clothing,West,110.87,10,26.58
+2025-10-18,Stapler,Office Supplies,Central,358.85,4,127.3
+2025-10-31,Sofa,Furniture,West,1043.27,5,108.83
+2025-12-22,Desk,Furniture,North,4722.07,7,1349.84
+2025-12-07,Pen,Office Supplies,Central,421.06,10,50.86
+2025-03-15,Headphones,Electronics,East,3436.82,9,959.06
+2025-07-02,Jacket,Clothing,South,651.42,5,156.85
+2025-09-03,Tablet,Electronics,South,718.69,1,274.52
+2025-07-08,Sofa,Furniture,East,618.14,2,221.97
+2025-05-13,Jacket,Clothing,Central,988.88,7,305.7
+2025-11-17,Laptop,Electronics,East,6432.92,7,989.43
+2025-04-03,Jeans,Clothing,North,27.28,2,9.1
+2025-07-26,Pen,Office Supplies,East,650.14,8,252.43
+2025-04-04,Folder,Office Supplies,South,118.8,2,21.75
+2025-12-30,Jeans,Clothing,East,983.01,8,305.51
+2025-05-08,Laptop,Electronics,North,5309.64,4,1937.35
+2025-08-27,Sofa,Furniture,Central,1451.39,8,466.23
+2025-06-28,T-shirt,Clothing,East,204.33,4,62.8
+2025-08-10,Paper,Office Supplies,Central,152.05,4,35.07
+2025-03-05,T-shirt,Clothing,North,1882.13,10,236.27
+2025-03-12,Binder,Office Supplies,South,267.9,10,64.49
+2025-09-28,Desk,Furniture,West,2190.04,5,866.36
+2025-04-20,Tablet,Electronics,East,2948.6,8,313.01
+2025-05-05,Bookshelf,Furniture,North,768.36,4,263.32
+2025-01-31,Binder,Office Supplies,South,504.94,7,143.99
+2025-05-08,Lamp,Furniture,South,4083.83,8,743.63
+2025-09-04,Chair,Furniture,North,6632.34,10,776.6
+2025-10-05,Jeans,Clothing,North,1072.03,9,321.78
+2025-09-28,T-shirt,Clothing,South,1187.34,7,471.18
+2025-08-07,Tablet,Electronics,South,3798.1,5,1224.86
+2025-02-07,Folder,Office Supplies,West,202.55,3,27.37
+2025-07-06,Jeans,Clothing,West,968.68,9,359.37
+2025-08-17,Smartphone,Electronics,North,5239.23,6,1434.47
+2025-02-08,Bookshelf,Furniture,West,2532.59,8,755.98
+2025-08-10,Bookshelf,Furniture,Central,595.22,3,92.17
+2025-01-06,Lamp,Furniture,North,2258.85,3,831.7
+2025-10-14,T-shirt,Clothing,East,216.37,5,65.31
+2025-03-25,Smartwatch,Electronics,South,6327.67,7,2059.67
+2025-10-03,Laptop,Electronics,South,4551.54,4,662.77
+2025-09-30,Smartphone,Electronics,Central,6039.11,8,2272.05
+2025-04-21,Headphones,Electronics,South,415.32,7,137.78
+2025-10-13,Laptop,Electronics,South,9842.0,7,2093.8
+2025-06-20,Desk,Furniture,Central,3087.14,5,350.81
+2025-05-23,Headphones,Electronics,West,6561.71,9,2178.92
+2025-11-09,Tablet,Electronics,North,5584.62,4,2227.81
+2025-04-08,Jacket,Clothing,East,664.57,9,159.3
+2025-03-13,Smartphone,Electronics,North,935.62,1,149.65
+2025-12-17,Pen,Office Supplies,East,25.02,1,6.68
+2025-04-12,Smartwatch,Electronics,South,5683.34,5,1303.38
+2025-08-15,T-shirt,Clothing,North,226.7,3,24.72
+2025-12-25,Binder,Office Supplies,East,67.07,1,10.58
+2025-09-01,Jeans,Clothing,Central,306.31,4,114.52
+2025-11-04,Jeans,Clothing,Central,1460.49,10,455.49
+2025-07-05,Folder,Office Supplies,East,55.54,3,10.77
+2025-07-29,T-shirt,Clothing,South,902.32,8,356.83
+2025-05-17,Jeans,Clothing,West,984.72,8,142.92
+2025-10-17,Lamp,Furniture,North,659.78,3,159.2
+2025-12-26,Chair,Furniture,South,1664.38,10,313.37
+2025-04-23,Binder,Office Supplies,East,75.55,3,22.59
+2025-12-06,Desk,Furniture,South,1800.44,7,341.47
+2025-03-07,T-shirt,Clothing,North,225.0,3,51.52
+2025-10-21,Tablet,Electronics,Central,4849.16,10,1352.07
+2025-03-11,Chair,Furniture,Central,64.84,1,10.72
+2025-01-18,Folder,Office Supplies,East,414.97,5,112.03
+2025-05-18,Pen,Office Supplies,South,850.97,9,106.22
+2025-08-25,Stapler,Office Supplies,Central,245.39,5,33.28
+2025-03-14,Smartwatch,Electronics,Central,2242.71,2,246.1
+2025-04-18,Sofa,Furniture,West,1139.9,7,308.22
+2025-08-08,Stapler,Office Supplies,Central,803.89,10,88.05
+2025-09-04,Lamp,Furniture,South,203.93,4,52.43
+2025-11-17,Lamp,Furniture,North,4272.99,9,887.77
+2025-07-27,Smartphone,Electronics,East,2236.33,8,258.38
+2025-05-25,Desk,Furniture,Central,2336.12,6,571.51
+2025-05-23,Sofa,Furniture,Central,3699.9,6,1237.44
+2025-03-01,Stapler,Office Supplies,East,417.14,6,51.3
+2025-01-26,Paper,Office Supplies,South,173.11,5,30.28
+2025-09-30,Binder,Office Supplies,South,656.11,9,79.08
+2025-03-04,Sneakers,Clothing,East,73.78,3,15.23
+2025-02-13,Jacket,Clothing,South,565.87,8,130.97
+2025-03-06,Pen,Office Supplies,South,116.15,3,26.01
+2025-10-23,Lamp,Furniture,West,1411.08,4,212.31
+2025-09-03,Laptop,Electronics,East,6228.16,8,1989.56
+2025-09-21,Smartwatch,Electronics,South,9833.19,7,3686.72
+2025-10-13,Lamp,Furniture,North,2724.16,10,307.6
+2025-04-08,Smartwatch,Electronics,West,8804.24,7,2307.49
+2025-01-04,Lamp,Furniture,West,2907.57,7,669.12
+2025-08-17,Binder,Office Supplies,North,594.39,10,117.43
+2025-05-19,Pen,Office Supplies,South,71.19,1,14.05
+2025-08-02,Smartphone,Electronics,East,9742.99,8,3741.57
+2025-09-08,Jacket,Clothing,Central,148.96,10,41.87
+2025-04-23,Paper,Office Supplies,South,214.37,9,25.66
+2025-09-13,Smartwatch,Electronics,West,4584.51,7,678.82
+2025-07-25,Smartphone,Electronics,South,1719.85,10,374.81
+2025-11-30,Paper,Office Supplies,North,186.7,3,27.8
+2025-03-26,Pen,Office Supplies,East,475.42,5,90.99
+2025-05-01,Laptop,Electronics,West,13940.29,10,2287.73
+2025-01-18,T-shirt,Clothing,East,46.33,3,12.74
+2025-08-27,Chair,Furniture,West,4830.31,10,1059.31
+2025-11-11,Binder,Office Supplies,South,727.22,8,154.47
+2025-05-21,Bookshelf,Furniture,West,200.77,1,39.2
+2025-03-31,Hat,Clothing,Central,382.04,4,76.88
+2025-03-12,Hat,Clothing,South,414.33,4,96.39
+2025-10-02,Folder,Office Supplies,West,248.16,10,46.88
+2025-05-28,Folder,Office Supplies,Central,274.29,9,57.14
+2025-12-22,Desk,Furniture,Central,1700.45,3,268.72
+2025-01-22,Lamp,Furniture,West,2878.73,4,544.62
+2025-02-07,Pen,Office Supplies,East,528.82,6,178.29
+2025-02-19,T-shirt,Clothing,West,37.21,2,11.05
+2025-11-20,Stapler,Office Supplies,South,15.7,2,3.66
+2025-06-08,Folder,Office Supplies,East,179.68,3,64.65
+2025-07-06,Stapler,Office Supplies,South,189.65,4,54.17
+2025-04-17,T-shirt,Clothing,Central,1331.38,8,355.29
+2025-04-05,Jeans,Clothing,South,179.08,1,71.2
+2025-04-16,Tablet,Electronics,Central,2918.22,7,1049.59
+2025-10-23,Jacket,Clothing,South,276.06,2,97.74
+2025-10-10,Jacket,Clothing,South,189.35,1,62.44
+2025-06-15,Bookshelf,Furniture,West,397.42,9,95.07
+2025-12-27,Chair,Furniture,Central,1190.46,6,140.45
+2025-08-30,Hat,Clothing,North,1794.71,9,278.24
+2025-03-14,Laptop,Electronics,West,698.4,10,86.94
+2025-03-07,Bookshelf,Furniture,West,548.09,1,173.9
+2025-06-08,Sofa,Furniture,South,6959.55,9,801.22
+2025-12-06,Hat,Clothing,West,735.37,7,88.85
+2025-08-04,Lamp,Furniture,South,1472.59,2,326.88
+2025-01-22,Sneakers,Clothing,Central,500.17,4,96.22
+2025-01-18,Tablet,Electronics,West,2873.67,6,288.33
+2025-05-29,Pen,Office Supplies,Central,137.11,8,31.91
+2025-03-28,Bookshelf,Furniture,North,890.6,7,306.39
+2025-04-08,Smartphone,Electronics,West,999.9,5,220.59
+2025-12-19,Jacket,Clothing,East,726.53,5,150.38
+2025-07-31,Stapler,Office Supplies,East,271.15,3,72.11
+2025-11-21,Paper,Office Supplies,South,378.36,9,92.33
+2025-02-23,Jacket,Clothing,East,225.04,10,82.68
+2025-04-21,Paper,Office Supplies,South,43.26,1,13.05
+2025-06-10,Lamp,Furniture,East,1795.95,3,538.76
+2025-04-19,Sneakers,Clothing,West,612.64,4,221.69
+2025-06-22,Sofa,Furniture,East,2241.87,9,522.15
+2025-07-30,Smartwatch,Electronics,East,1856.38,8,722.21
+2025-10-26,Jacket,Clothing,South,237.11,9,27.77
+2025-07-26,Pen,Office Supplies,West,190.44,7,55.48
+2025-10-02,Pen,Office Supplies,South,173.82,6,33.43
+2025-12-21,Bookshelf,Furniture,North,3595.8,8,505.95
+2025-11-20,Pen,Office Supplies,Central,643.87,9,213.21
+2025-04-27,Jacket,Clothing,East,69.89,5,13.61
+2025-04-28,Smartwatch,Electronics,North,3182.76,6,963.42
+2025-01-11,Paper,Office Supplies,South,343.77,6,115.85
+2025-11-09,Bookshelf,Furniture,East,6581.42,10,1579.66
+2025-10-13,Tablet,Electronics,East,204.19,1,27.41
+2025-03-20,Hat,Clothing,Central,1578.42,8,157.93
+2025-11-16,Stapler,Office Supplies,West,310.95,7,99.24
+2025-06-18,Laptop,Electronics,North,7422.53,10,2082.33
+2025-11-04,Laptop,Electronics,East,233.89,1,50.88
+2025-05-12,Bookshelf,Furniture,North,450.57,6,119.72
+2025-07-08,Desk,Furniture,North,359.06,3,63.29
+2025-05-03,Jeans,Clothing,West,767.69,9,145.01
+2025-07-06,Jacket,Clothing,East,506.94,4,130.33
+2025-05-12,Desk,Furniture,North,2383.0,6,688.75
+2025-03-31,Bookshelf,Furniture,South,901.51,5,273.65
+2025-03-28,Binder,Office Supplies,South,218.3,10,69.12
+2025-04-05,Jacket,Clothing,Central,59.97,5,22.1
+2025-04-28,Lamp,Furniture,West,5505.79,7,692.85
+2025-08-23,Stapler,Office Supplies,North,233.93,5,68.59
+2025-09-16,Tablet,Electronics,South,9509.39,7,2044.18
+2025-12-30,Laptop,Electronics,North,6896.68,10,1102.25
+2025-04-03,T-shirt,Clothing,South,923.12,8,321.04
+2025-07-04,Desk,Furniture,North,1744.44,5,675.77
+2025-06-28,Bookshelf,Furniture,West,2788.23,7,296.41
+2025-02-11,Lamp,Furniture,Central,2165.1,5,363.81
+2025-05-03,Binder,Office Supplies,Central,67.57,3,10.86
+2025-04-21,Pen,Office Supplies,West,321.67,6,78.81
+2025-06-24,Jeans,Clothing,West,45.57,4,4.91
+2025-01-09,Hat,Clothing,East,96.26,5,12.46
+2025-10-05,Desk,Furniture,North,3473.38,8,817.49
+2025-11-02,Sofa,Furniture,North,1149.72,9,157.49
+2025-10-06,T-shirt,Clothing,West,840.12,6,323.19
+2025-11-30,Lamp,Furniture,East,1095.48,2,165.38
+2025-06-09,Jacket,Clothing,East,800.41,9,85.81
+2025-11-19,Tablet,Electronics,North,9190.72,10,2928.13
+2025-07-16,Hat,Clothing,Central,177.17,9,50.54
+2025-10-28,Desk,Furniture,South,571.26,2,191.08
+2025-07-22,Laptop,Electronics,North,4467.44,3,769.3
+2025-08-04,Lamp,Furniture,West,4640.87,9,1493.92
+2025-03-17,Sofa,Furniture,South,1679.59,7,536.58
+2025-06-29,Headphones,Electronics,West,1437.94,1,527.78
+2025-05-06,Pen,Office Supplies,Central,413.09,7,48.64
+2025-06-22,Jacket,Clothing,West,321.28,8,123.62
+2025-03-06,Laptop,Electronics,Central,3392.32,6,1020.29
+2025-05-26,Pen,Office Supplies,Central,197.13,7,58.5
+2025-03-29,Pen,Office Supplies,Central,250.84,3,44.24
+2025-12-13,Binder,Office Supplies,West,218.42,6,70.64
+2025-10-23,Smartwatch,Electronics,South,243.11,1,43.37
+2025-01-28,Tablet,Electronics,North,2834.9,9,554.83
+2025-02-07,Headphones,Electronics,North,508.33,6,140.02
+2025-12-21,Jacket,Clothing,Central,27.37,1,7.87
+2025-12-10,Tablet,Electronics,Central,4050.1,3,643.51
+2025-05-06,Smartphone,Electronics,West,2682.91,2,748.76
+2025-01-16,Pen,Office Supplies,North,550.43,6,149.52
+2025-12-02,Paper,Office Supplies,South,227.61,8,43.68
+2025-05-02,Smartwatch,Electronics,Central,5654.16,6,703.79
+2025-01-30,Binder,Office Supplies,South,227.97,9,42.17
+2025-01-15,Hat,Clothing,North,533.53,4,160.41
+2025-07-28,Laptop,Electronics,West,2574.71,3,803.58
+2025-04-21,Tablet,Electronics,South,2466.63,2,260.68
+2025-04-05,Laptop,Electronics,Central,11930.77,9,1369.25
+2025-09-24,Chair,Furniture,Central,2176.45,3,233.72
+2025-02-06,Hat,Clothing,West,1832.28,10,205.37
+2025-10-06,Binder,Office Supplies,West,684.41,7,201.0
+2025-06-28,Stapler,Office Supplies,South,388.78,5,119.55
+2025-07-02,Bookshelf,Furniture,West,170.49,1,66.42
+2025-03-11,Bookshelf,Furniture,South,811.16,3,185.14
+2025-08-02,Bookshelf,Furniture,Central,1299.07,3,489.04
+2025-01-15,T-shirt,Clothing,West,643.58,9,212.1
+2025-12-24,Chair,Furniture,East,1280.16,4,258.3
+2025-08-08,Headphones,Electronics,South,3016.75,4,795.75
+2025-01-10,Smartwatch,Electronics,East,893.73,2,333.85
+2025-12-03,Lamp,Furniture,North,1664.68,8,288.11
+2025-03-16,Desk,Furniture,West,203.75,6,47.6
+2025-11-24,Hat,Clothing,East,569.08,3,110.33
+2025-06-06,Paper,Office Supplies,Central,555.07,8,97.52
+2025-04-14,Pen,Office Supplies,Central,512.11,7,124.26
+2025-05-03,Bookshelf,Furniture,North,4526.6,10,709.58
+2025-07-06,Hat,Clothing,North,97.57,1,34.01
+2025-06-24,Jacket,Clothing,West,508.15,3,153.11
+2025-01-24,Smartwatch,Electronics,North,853.02,4,189.65
+2025-09-28,Desk,Furniture,East,1032.32,2,187.02
+2025-12-20,Stapler,Office Supplies,North,782.97,8,215.15
+2025-09-26,Sneakers,Clothing,North,20.67,1,3.65
+2025-04-08,Chair,Furniture,Central,738.62,2,268.84
+2025-02-07,Stapler,Office Supplies,North,341.53,8,82.72
+2025-12-06,Smartphone,Electronics,Central,3227.64,5,1114.46
+2025-05-08,Laptop,Electronics,South,249.17,1,45.61
+2025-03-26,Binder,Office Supplies,West,248.37,7,69.25
+2025-03-10,Paper,Office Supplies,Central,20.62,4,4.39
+2025-07-04,Smartphone,Electronics,Central,100.66,2,37.7
+2025-09-08,Jeans,Clothing,Central,147.57,1,55.88
+2025-09-17,Smartphone,Electronics,West,311.71,2,100.75
+2025-04-15,Tablet,Electronics,South,711.24,7,283.29
+2025-12-28,Jeans,Clothing,South,139.22,8,30.29
+2025-08-17,Lamp,Furniture,North,4603.24,7,1672.06
+2025-12-20,Sofa,Furniture,South,590.27,10,202.12
+2025-07-12,Desk,Furniture,South,3175.78,4,1134.58
+2025-11-30,Stapler,Office Supplies,Central,50.97,9,11.27
+2025-11-24,Pen,Office Supplies,West,95.38,1,13.46
+2025-11-12,Jacket,Clothing,North,237.07,3,54.9
+2025-02-11,Folder,Office Supplies,Central,169.6,2,34.22
+2025-10-21,Desk,Furniture,North,1095.51,7,366.94
+2025-02-26,Sofa,Furniture,East,1460.52,2,229.36
+2025-07-17,Hat,Clothing,Central,213.28,5,51.82
+2025-03-02,Smartwatch,Electronics,West,415.09,6,105.24
+2025-07-11,Tablet,Electronics,South,1238.46,1,453.84
+2025-12-01,Hat,Clothing,West,163.28,2,35.59
+2025-01-10,Sofa,Furniture,South,537.88,2,135.01
+2025-05-09,Chair,Furniture,West,726.19,6,160.09
+2025-04-07,Binder,Office Supplies,Central,667.29,7,108.75
+2025-10-09,Folder,Office Supplies,East,9.09,1,1.4
+2025-03-10,Jacket,Clothing,North,310.14,2,41.13
+2025-02-04,Stapler,Office Supplies,South,69.72,3,10.03
+2025-11-10,Smartphone,Electronics,East,2779.81,2,962.08
+2025-03-12,Tablet,Electronics,South,9148.77,10,3150.06
+2025-04-07,Bookshelf,Furniture,North,7751.62,10,2304.79
+2025-02-01,Folder,Office Supplies,North,23.35,1,5.64
+2025-04-24,Desk,Furniture,West,2436.65,7,389.39
+2025-07-22,Jeans,Clothing,North,1478.05,10,307.61
+2025-12-10,Smartphone,Electronics,Central,2801.86,8,737.43
+2025-05-10,Hat,Clothing,North,509.89,9,175.25
+2025-04-27,T-shirt,Clothing,North,387.02,2,62.6
+2025-07-02,Stapler,Office Supplies,Central,101.52,8,36.85
+2025-02-14,Bookshelf,Furniture,Central,369.95,2,135.8
+2025-02-16,Tablet,Electronics,South,4548.27,9,1135.97
+2025-12-12,Hat,Clothing,East,410.41,4,126.17
+2025-12-04,Bookshelf,Furniture,North,882.8,5,331.2
+2025-03-17,Paper,Office Supplies,West,34.66,1,11.01
+2025-07-19,Laptop,Electronics,East,4789.45,4,1343.03
+2025-11-06,Bookshelf,Furniture,Central,69.47,1,15.32
+2025-12-14,Jeans,Clothing,Central,783.61,6,122.19
+2025-03-31,Headphones,Electronics,South,5269.6,7,569.43
+2025-03-09,Jacket,Clothing,West,1918.56,10,437.68
+2025-08-06,Chair,Furniture,West,574.6,1,100.93
+2025-05-29,Bookshelf,Furniture,South,285.65,4,30.46
+2025-09-11,Stapler,Office Supplies,North,39.1,2,12.45
+2025-04-10,Folder,Office Supplies,South,112.37,3,33.1
+2025-10-05,Lamp,Furniture,West,564.88,2,194.73
+2025-03-12,Lamp,Furniture,East,875.41,3,315.93
+2025-03-10,Stapler,Office Supplies,East,62.17,3,19.4
+2025-04-03,Smartphone,Electronics,East,2142.19,6,240.89
+2025-11-24,Smartphone,Electronics,East,10170.45,10,2345.5
+2025-10-21,Desk,Furniture,West,1605.49,7,185.99
+2025-08-11,Chair,Furniture,North,1204.05,3,141.11
+2025-04-16,Lamp,Furniture,South,2526.2,5,987.61
+2025-01-12,Headphones,Electronics,South,1095.64,1,169.97
+2025-05-20,Headphones,Electronics,East,5772.96,9,1061.59
+2025-01-10,Hat,Clothing,West,814.92,5,126.91
+2025-09-10,Laptop,Electronics,West,6824.6,6,2330.84
+2025-08-04,Jeans,Clothing,West,738.15,7,146.42
+2025-03-27,Lamp,Furniture,West,7388.13,10,765.42
+2025-10-21,Headphones,Electronics,South,4165.47,8,1257.25
+2025-02-08,Smartwatch,Electronics,North,5914.48,8,1980.76
+2025-12-18,T-shirt,Clothing,West,470.42,10,118.3
+2025-10-09,Jeans,Clothing,South,293.85,9,32.6
+2025-08-01,Hat,Clothing,North,119.72,2,27.12
+2025-09-03,Bookshelf,Furniture,East,571.94,2,111.33
+2025-12-09,Tablet,Electronics,Central,5960.94,4,2149.32
+2025-01-13,Bookshelf,Furniture,North,3426.01,8,1214.36
+2025-10-06,Lamp,Furniture,East,964.29,6,124.1
+2025-01-18,Lamp,Furniture,North,4062.96,9,606.92
+2025-10-12,Lamp,Furniture,East,2058.23,3,551.12
+2025-04-18,Bookshelf,Furniture,South,640.56,2,179.97
+2025-03-29,Lamp,Furniture,South,3345.48,7,1103.69
+2025-01-05,Hat,Clothing,Central,1466.55,10,266.13
+2025-09-05,Desk,Furniture,South,4308.56,7,1305.15
+2025-07-17,Folder,Office Supplies,Central,24.86,1,7.68
+2025-12-07,Smartwatch,Electronics,Central,1477.75,1,240.47
+2025-09-12,Pen,Office Supplies,Central,338.67,4,116.02
+2025-03-31,Chair,Furniture,West,1311.97,5,145.92
+2025-09-01,Tablet,Electronics,Central,5704.32,6,777.07
+2025-04-13,Desk,Furniture,Central,4058.51,10,1395.8
+2025-06-30,Binder,Office Supplies,West,25.44,1,7.33
+2025-06-20,Headphones,Electronics,South,3524.43,9,680.54
+2025-01-10,Headphones,Electronics,East,8851.64,6,2592.05
+2025-08-03,Sneakers,Clothing,North,324.7,2,74.8
+2025-03-04,Smartwatch,Electronics,South,4707.18,9,1538.58
+2025-09-12,Hat,Clothing,North,302.1,2,50.9
+2025-12-20,Sneakers,Clothing,Central,801.77,10,239.83
+2025-12-10,Headphones,Electronics,East,2660.89,3,804.15
+2025-02-28,Chair,Furniture,West,4326.11,9,765.39
+2025-04-08,Headphones,Electronics,East,9585.79,7,3021.24
+2025-01-27,T-shirt,Clothing,Central,753.55,4,142.03
+2025-08-02,Bookshelf,Furniture,East,94.08,1,33.76
+2025-03-17,Folder,Office Supplies,North,55.23,7,17.57
+2025-03-25,Jeans,Clothing,Central,1362.55,7,345.79
+2025-02-06,Paper,Office Supplies,South,101.9,3,16.08
+2025-11-04,Bookshelf,Furniture,West,1179.46,3,198.44
+2025-02-03,Hat,Clothing,West,150.35,2,59.6
+2025-08-19,Chair,Furniture,Central,1883.41,5,332.28
+2025-07-12,Folder,Office Supplies,East,31.77,1,4.93
+2025-05-25,Smartphone,Electronics,North,391.0,5,61.25
+2025-03-04,Hat,Clothing,East,476.6,3,49.16
+2025-02-12,Chair,Furniture,Central,789.75,1,138.41
+2025-03-12,Paper,Office Supplies,North,513.04,10,196.81
+2025-07-01,Sneakers,Clothing,West,1729.67,9,247.07
+2025-01-19,Chair,Furniture,Central,799.07,1,93.08
+2025-02-09,Headphones,Electronics,North,3325.51,3,689.47
+2025-06-21,Tablet,Electronics,West,979.34,2,381.91
+2025-03-28,Pen,Office Supplies,Central,50.29,9,17.26
+2025-11-11,Binder,Office Supplies,South,319.52,4,34.26
+2025-01-17,Bookshelf,Furniture,East,3982.37,5,741.73
+2025-07-16,Paper,Office Supplies,West,249.23,4,41.92
+2025-02-26,Stapler,Office Supplies,South,189.23,3,39.98
+2025-10-06,Jacket,Clothing,East,180.19,1,19.58
+2025-08-02,Tablet,Electronics,West,1620.22,3,504.94
+2025-05-09,Smartphone,Electronics,Central,4282.31,10,439.91
+2025-01-27,Bookshelf,Furniture,South,1067.69,2,386.24
+2025-11-23,Bookshelf,Furniture,South,404.74,4,96.07
+2025-07-20,Paper,Office Supplies,East,774.72,8,300.16
+2025-06-16,Tablet,Electronics,West,2073.34,4,760.3
+2025-06-15,Sofa,Furniture,West,475.7,7,102.7
+2025-04-16,Smartphone,Electronics,West,5405.91,5,551.61
+2025-03-15,Sneakers,Clothing,South,1594.03,10,353.13
+2025-04-29,Headphones,Electronics,West,285.87,2,79.71
+2025-02-13,Sofa,Furniture,South,4078.42,6,971.07
+2025-02-20,Pen,Office Supplies,South,34.64,3,8.49
+2025-01-04,Smartwatch,Electronics,South,4701.06,10,806.82
+2025-08-07,Sofa,Furniture,Central,411.83,3,148.2
+2025-09-16,Jacket,Clothing,East,223.66,4,26.93
+2025-10-23,Sofa,Furniture,West,2419.54,4,251.1
+2025-08-20,Chair,Furniture,West,76.9,1,23.88
+2025-03-07,Smartwatch,Electronics,West,1220.94,4,439.38
+2025-08-15,Sofa,Furniture,East,7876.08,10,2937.17
+2025-11-09,Stapler,Office Supplies,North,295.27,5,76.61
+2025-02-09,Chair,Furniture,North,2805.4,6,511.7
+2025-01-11,Stapler,Office Supplies,South,150.81,7,39.82
+2025-07-19,Jeans,Clothing,East,464.27,7,175.91
+2025-08-14,Folder,Office Supplies,North,94.77,2,25.23
+2025-11-22,Paper,Office Supplies,Central,105.63,7,35.15
+2025-12-01,Bookshelf,Furniture,North,672.43,1,183.71
+2025-08-27,T-shirt,Clothing,South,82.66,5,24.11
+2025-11-16,Smartwatch,Electronics,East,4344.14,10,997.43
+2025-01-16,Jeans,Clothing,North,726.94,6,179.24
+2025-11-11,Lamp,Furniture,North,2650.79,5,955.34
+2025-12-13,Tablet,Electronics,Central,9512.02,10,1578.6
+2025-07-06,Binder,Office Supplies,Central,250.42,6,86.73
+2025-03-05,Laptop,Electronics,East,5860.24,6,1185.46
+2025-01-11,Jacket,Clothing,Central,199.66,1,24.46
+2025-04-01,Smartwatch,Electronics,South,4966.67,4,1459.67
+2025-06-08,Headphones,Electronics,East,8143.95,7,2651.17
+2025-07-29,Jacket,Clothing,East,204.69,10,46.68
+2025-04-24,Hat,Clothing,South,439.24,4,52.63
+2025-08-06,Chair,Furniture,East,2699.59,5,849.28
+2025-09-11,Jeans,Clothing,Central,12.26,1,1.74
+2025-05-29,Stapler,Office Supplies,East,137.45,2,47.61
+2025-09-21,Sofa,Furniture,North,453.94,1,71.61
+2025-09-05,Headphones,Electronics,Central,3181.34,4,896.27
+2025-09-22,Chair,Furniture,Central,6099.02,10,1940.93
+2025-02-06,Sneakers,Clothing,Central,1140.49,6,249.74
+2025-08-13,Tablet,Electronics,Central,5012.47,9,1398.0
+2025-01-29,Hat,Clothing,South,178.43,3,62.72
+2025-02-11,Hat,Clothing,Central,986.92,7,182.72
+2025-03-14,Desk,Furniture,North,2536.03,5,312.5
+2025-07-01,Bookshelf,Furniture,North,1481.21,3,291.35
+2025-03-23,Laptop,Electronics,South,8563.33,7,2584.84

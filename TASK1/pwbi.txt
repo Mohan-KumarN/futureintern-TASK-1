@@ -1,0 +1,47 @@
+To view this analysis in Power BI with professional visuals, follow these step-by-step instructions. We will use the sales_data.csv file already generated.
+
+Step 1: Import the Data
+
+1. Open Power BI Desktop .
+2. Click on Get Data > Text/CSV .
+3. Select the sales_data.csv file.
+4. In the preview window, click Transform Data (this opens Power Query).
+5. Data Cleaning Check :
+   - Ensure the Date column is set to Date type.
+   - Ensure Sales and Profit are set to Fixed Decimal Number (Currency).
+   - Ensure Quantity is a Whole Number .
+6. Click Close & Apply .
+Step 2: Create KPI Cards (Executive Summary) Professional dashboards always start with high-level numbers.
+
+1. Select the Card visual from the Visualizations pane.
+2. Drag Sales into the Field. Rename it to "Total Revenue" by double-clicking the field name in the pane.
+3. Repeat for Profit ("Total Profit") and Quantity ("Units Sold").
+4. Formatting : Under the Format tab (brush icon), go to Callout value and set the font to a clean one like Segoe UI Semibold . Turn on Shadow and Border (light grey) for a modern look.
+Step 3: Revenue Trend Analysis
+
+1. Select the Area Chart or Line Chart .
+2. Drag Date to the X-axis (Power BI will automatically create a hierarchy; you can right-click Date and select "Date" instead of hierarchy for a continuous line).
+3. Drag Sales to the Y-axis .
+4. Professional Touch : Go to Format > Lines > Shapes and enable "Stepped" or "Smooth". Turn on Data Labels but set them to only show for max/min points to avoid clutter.
+Step 4: Category & Product Performance
+
+1. Clustered Bar Chart : Drag Category to the Y-axis and Sales to the X-axis.
+2. Treemap : Drag Product to Category and Sales to Values . This visually represents which products take up the most "space" in your revenue.
+3. Donut Chart : Use this for Sales by Category to show distribution. Ensure you limit it to 4-5 categories for readability.
+Step 5: Regional Mapping
+
+1. Select the Map or Filled Map visual.
+2. Drag Region to the Location field and Sales to Bubble size .
+3. Note : Since our regions are 'North', 'South', etc., Power BI might need clarification. You can also use a Stacked Bar Chart (Region vs Sales) if mapping doesn't align perfectly with geographic coordinates.
+Step 6: Adding Interactivity (Slicers)
+
+1. Select the Slicer visual.
+2. Drag Category into it. Change the slicer style to Tile (under Format > Slicer settings) for a button-like appearance.
+3. Add another Slicer for Date (set it to Between or Slider style).
+Step 7: Professional Design Tips
+
+- Theme : Go to the View tab and select a professional theme like "Executive" or "Innovate".
+- Layout : Place KPIs at the top, Trends in the middle, and Categorical breakdowns at the bottom.
+- Background : Use a light grey background ( #F3F3F3 ) for the page and white backgrounds for the visuals with a slight border radius (10px).
+- Titles : Use clear, bold titles for every visual (e.g., "Monthly Revenue Performance").
+By following these steps, you will transform the raw sales_data.csv into a client-ready, interactive dashboard.

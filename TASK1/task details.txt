@@ -1,0 +1,36 @@
+This project is a small Python data-analysis pipeline that:
+
+generates synthetic sales data,
+analyzes it and creates charts into assets/.
+1) Prerequisites
+Install Python 3.x
+Install required packages:
+
+pip install pandas numpy matplotlib seaborn
+2) (Optional) Generate the dataset
+If you want to regenerate sales_data.csv, run:
+
+
+python generate_data.py
+This will create/overwrite:
+
+sales_data.csv
+3) Run the analysis + chart generation
+Run:
+
+
+python analyze_sales.py
+It will:
+
+read sales_data.csv
+print missing-value check + summary stats
+generate images in:
+assets/revenue_trends.png
+assets/top_products.png
+assets/category_revenue.png
+assets/regional_performance.png
+assets/category_profit.png
+4) Where to look for results
+Charts: assets/
+Text report: Sales_Performance_Report.md (already present in the folder; the scripts currently generate charts and console summary, not edit the MD file)
+Note: If analyze_sales.py errors, it’s usually because sales_data.csv is missing or package dependencies aren’t installed.
